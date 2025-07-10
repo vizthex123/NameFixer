@@ -1,0 +1,5 @@
+item.cookingbook:toast.name=Toast
+
+tile.cookingbook:toaster.name=Toaster
+
+cookingbook:toaster.tooltipDesc=Toasts Bread in 60 seconds or less!

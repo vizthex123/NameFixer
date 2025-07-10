@@ -1,0 +1,29 @@
+# Compacter
+
+tile.compacter.Compacter.name=Compactor
+
+# Cooking for Blockheads
+item.cookingbook:toast.name=Toast
+
+tile.cookingbook:toaster.name=Toaster
+
+cookingbook:toaster.tooltipDesc=Toasts Bread in 60 seconds or less!
+
+# GraviSuite
+item.GraviSuite.itemSimpleItem.name=Superconductor Cover
+
+item.itemSimpleItem/2.name=Cooling Core
+
+item.EngineBoost.name=Engine Booster
+item.GravitationEngine.name=Gravitation Engine
+item.Magnetron.name=Magnetron
+item.SuperConductor.name=Superconductor
+item.GraviSuite:SuperConductorCover.name=Superconductor Cover
+item.VajraCore.name=Vajra Core
+
+# IC2
+item.IC2.itemArmorAdvBatpack=Advanced BatPack
+
+# The Essence of Everything
+# I need to try and make this a ContentTweaker script or something
+item.essence_leggings.name=The Essence of Everything Leggings

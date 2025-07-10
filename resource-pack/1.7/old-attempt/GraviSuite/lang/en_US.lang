@@ -1,0 +1,10 @@
+item.GraviSuite.itemSimpleItem.name=Superconductor Cover
+
+item.itemSimpleItem/2.name=Cooling Core
+
+item.EngineBoost.name=Engine Booster
+item.GravitationEngine.name=Gravitation Engine
+item.Magnetron.name=Magnetron
+item.SuperConductor.name=Superconductor
+item.GraviSuite:SuperConductorCover.name=Superconductor Cover
+item.VajraCore.name=Vajra Core
