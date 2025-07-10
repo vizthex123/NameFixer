@@ -8,4 +8,4 @@ In fact, I'd prefer if someone with any sort of texturing talent could make thei
 
 ***For resource packs:*** Credit is required if you use some assets from this in your own resource pack (e.g. using my UI templates to make development easier)
 
-If you want to contribute, feel free to do so. Simply open a [pull request](https://github.com/vizthex123/StonebornMissingMods/pulls) (or message me on discord) and let me know what you want to add. I'll add you to the credits, and can add you to the CurseForge and/or Modrinth pages as well.
+If you want to contribute, feel free to do so. Simply open a [pull request](https://github.com/vizthex123/NameFixer/pulls) (or message me on discord) and let me know what you want to add. I'll add you to the credits, and can add you to the CurseForge and/or Modrinth pages as well.

@@ -1,6 +1,6 @@
 {
-   "pack":{
-      "pack_format": 1,
-      "description": "Fixes broken localization (and some typos)."
-   }
+	"pack": {
+		"pack_format": 1,
+        "description": "Fixes the names of stuff because people can't follow standards ffs."
+	}
 }

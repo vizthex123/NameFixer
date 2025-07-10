@@ -4,4 +4,4 @@ Make sure this pack loads first (at the top of the list) to ensure it overrides 
 
 You can suggest mods I should fix in the comments, on the [issue tracker](https://github.com/vizthex123/NameFixer/issues), or on the [discord server](https://discord.com/invite/NtwzA6X).
 
-*A list of supported mods can be found [here](https://github.com/vizthex123/NameFixer/wiki)*
+*A list of supported mods can be found [here](https://github.com/vizthex123/NameFixer/blob/main/CFAssets/support_list.md)*

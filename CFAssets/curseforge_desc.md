@@ -1,22 +1,7 @@
-This resource pack fixes the names of many blocks & items from a variety of mods.
+While updating my modpacks, I've noticed that a ton of items have broken localization or typos - and I figured I'd combine and publish the resource packs I use to fix them all (that way I can easily add it to every pack).
 
-Report any issues on the [issue tracker](https://github.com/vizthex123/NameFixer/issues) or [discord server](https://discord.com/NtwzA6X).
+Make sure this pack loads first (at the top of the list) to ensure it overrides other packs.
 
-# Supported mods
+You can suggest mods I should fix in the comments, on the [issue tracker](https://github.com/vizthex123/NameFixer/issues), or on the [discord server](https://discord.com/invite/NtwzA6X).
 
-* [Ad Astra](https://www.curseforge.com/minecraft/mods/ad-astra)
-* [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mods/ad-astra-proxima-plus)
-* [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)
-* [The Aurorian](https://www.curseforge.com/minecraft/mc-mods/the-aurorian)
-* [Bigger Reactors](https://www.curseforge.com/minecraft/mc-mods/biggerreactors)
-* [Deeper Caves](https://www.curseforge.com/minecraft/mc-mods/deeper-caves)
-* [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)
-* [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
-* [Jet Boots](https://www.curseforge.com/minecraft/mc-mods/jet-boots)
-* [Netherific](https://www.curseforge.com/minecraft/mc-mods/netherific)
-* [Project Red: Exploration](https://www.curseforge.com/minecraft/mc-mods/project-red-exploration)
-* [Silver Birch](https://www.curseforge.com/minecraft/mc-mods/silverbirch)
-* [Thermal Extra](https://www.curseforge.com/minecraft/mc-mods/thermal-extra)
-* [Thermal Endergy](https://www.curseforge.com/minecraft/mc-mods/thermal-endergy)
-* [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
-* [XyCraft: World](https://www.curseforge.com/minecraft/mc-mods/xycraft-world)
+*A list of supported mods can be found [here](https://github.com/vizthex123/NameFixer/blob/main/CFAssets/support_list.md)*
